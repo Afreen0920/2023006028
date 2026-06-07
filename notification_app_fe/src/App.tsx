@@ -30,6 +30,7 @@ function App() {
       </div>
     </div>
   );
-}
+  return <Home />;
+  }
 
 export default App;
