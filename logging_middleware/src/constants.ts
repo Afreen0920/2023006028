@@ -1,0 +1,2 @@
+export const LOG_API =
+  "http://20.244.56.144/evaluation-service/logs";
